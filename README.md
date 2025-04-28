@@ -1,0 +1,1 @@
+In this portfolio I will add every project I make related to Data Science; .ipynb files will have a brief presentation followed by the entire projects, including python code and comments regarding analysis or machine learning. 
